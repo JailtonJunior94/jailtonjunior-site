@@ -3,9 +3,9 @@ import React from 'react';
 import SEO from '../components/seo';
 import Layout from '../components/Layout';
 
-const IndexPage = () => (
+const AboutPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="About" />
     <div
       style={{
         display: 'flex',
@@ -13,9 +13,9 @@ const IndexPage = () => (
         justifyContent: 'center',
       }}
     >
-      <h1>Home</h1>
+      <h1>About</h1>
     </div>
   </Layout>
 );
 
-export default IndexPage;
+export default AboutPage;

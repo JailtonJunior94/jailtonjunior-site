@@ -40,6 +40,8 @@ module.exports = {
     'react-hooks/exhaustive-deps': 'warn',
     'react/jsx-props-no-spreading': 'off',
     'no-underscore-dangle': 'off',
-    'camelcase': 'off'
+    'camelcase': 'off',
+    'import/no-extraneous-dependencies': 'off',
+    'react/no-array-index-key': 'off'
   },
 };
