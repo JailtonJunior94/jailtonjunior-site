@@ -15,7 +15,7 @@ export const ActionsButtonsList = styled.ul`
 export const ActionsButtonsItem = styled.li``;
 
 export const ActionsButtonsLink = styled.a`
-  color: #8899a6;
+  color: #fff;
   text-decoration: none;
   transition: color 0.5s;
   &:hover {

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Jailton A. T. Junior`,
-    description: `Analista programador com 5 anos de experiência com desenvolvimento de software, MBA em Arquitetura de Soluções na FIAP e graduado em Análise/Desenvolvimento de Sistemas pela UNIP.`,
+    description: `Analista programador com 5 anos de experiência em desenvolvimento de software. Especialista em Arquitetura de Soluções pela universidade FIAP e graduado em Análise/Desenvolvimento de Sistemas pela Universidade Paulista.`,
     author: `@jailtonjunior`,
   },
   plugins: [
