@@ -28,6 +28,8 @@ module.exports = {
     'react-hooks'
   ],
   rules: {
+    'react/require-default-props': 'off',
+    'import/no-unresolved': 'off',
     'prettier/prettier': 'error',
     'react/jsx-filename-extension': ['warn', { extensions: ['.jsx', '.js'] }],
     'import/prefer-default-export': 'off',
